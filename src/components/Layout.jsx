@@ -23,7 +23,13 @@ function Layout() {
         </div>
         <div id="mobile">
           <Link to="/cart"><i className="far fa-shopping-bag"></i></Link>
-          <i id="bar" className="fas fa-outdent" onClick={() => setIsNavActive(!isNavActive)}></i>
+          <button 
+            aria-label="Toggle menu"
+            className="menu-btn"
+            onClick={() => setIsNavActive(!isNavActive)}
+          >
+            <i id="bar" className="fas fa-outdent"></i>
+          </button>
         </div>
       </section>
 

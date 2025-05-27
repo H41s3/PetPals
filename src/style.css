@@ -1009,10 +1009,24 @@ footer .copyright {
     }
 
     #mobile i {
-        color: #1a1a1a;
-        font-size: 24px;
-        padding-left: 20px;
-    }
+    color: #1a1a1a;
+    font-size: 24px;
+    padding-left: 20px;
+}
+
+.menu-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: #1a1a1a;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.menu-btn:hover {
+    color: #77529e;
+}
 
     #close {
         display: initial;
