@@ -13,19 +13,19 @@ function Home() {
 
       <section id="feature" className="section-p1">
         <div className="fe-box">
-          <img src="/images/p1.png" alt="" />
+          <img src="images/p1.png" alt="" />
           <h6>Save Pets</h6>
         </div>
         <div className="fe-box">
-          <img src="/images/p2.png" alt="" />
+          <img src="images/p2.png" alt="" />
           <h6>Adopt</h6>
         </div>
         <div className="fe-box">
-          <img src="/images/p3.png" alt="" />
+          <img src="images/p3.png" alt="" />
           <h6>Lost and found</h6>
         </div>
         <div className="fe-box">
-          <img src="/images/p4.png" alt="" />
+          <img src="images/p4.png" alt="" />
           <h6>24/7 Support</h6>
         </div>
       </section>
@@ -45,7 +45,7 @@ function Home() {
             { id: 8, img: 'f8.png', type: 'Rabbit', breed: 'Rabbit', name: 'Cindy' }
           ].map(pet => (
             <div key={pet.id} className="pro">
-              <img src={`/images/${pet.img}`} alt={pet.name} />
+              <img src={`images/${pet.img}`} alt={pet.name} />
               <div className="des">
                 <span>{pet.type}</span>
                 <h5>{pet.breed}</h5>
@@ -83,7 +83,7 @@ function Home() {
             { id: 16, img: 'n8.png', type: 'Cat', breed: 'Tiger Cat', name: 'Ced' }
           ].map(pet => (
             <div key={pet.id} className="pro">
-              <img src={`/images/${pet.img}`} alt={pet.name} />
+              <img src={`images/${pet.img}`} alt={pet.name} />
               <div className="des">
                 <span>{pet.type}</span>
                 <h5>{pet.breed}</h5>
