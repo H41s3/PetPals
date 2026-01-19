@@ -808,6 +808,7 @@ footer .copyright {
     margin: 30px;
     padding: 80px;
     border: 1px solid #e1e1e1;
+    background-color: #fff;
 }
 
 #form-details form {
@@ -957,6 +958,7 @@ footer .copyright {
     margin-bottom: 30px;
     border: 1px solid #e2e9e1;
     padding: 30px;
+    background-color: #fff;
 }
 
 #subtotal table {
