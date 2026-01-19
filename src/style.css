@@ -474,6 +474,7 @@ body {
     outline: none;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
+    background-color: #fff;
 }
 
 #newsletter button {
@@ -825,6 +826,7 @@ footer .copyright {
     outline: none;
     margin-bottom: 20px;
     border: 1px solid #e1e1e1;
+    background-color: #fff;
 }
 
 #form-details form button {
@@ -944,6 +946,7 @@ footer .copyright {
     width: 60%;
     margin-right: 10px;
     border: 1px solid #e2e9e1;
+    background-color: #fff;
 }
 
 #coupon button,
