@@ -16,7 +16,7 @@ function Contact() {
           <div>
             <li>
               <i className="fal fa-map"></i>
-              <p>Quezon City, Philippines</p>
+              <p>Manila, Philippines</p>
             </li>
             <li>
               <i className="far fa-envelope"></i>
