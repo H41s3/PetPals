@@ -16,7 +16,7 @@ function Contact() {
           <div>
             <li>
               <i className="fal fa-map"></i>
-              <p>Manila, Philippines</p>
+              <p>Quezon City, Philippines</p>
             </li>
             <li>
               <i className="far fa-envelope"></i>
@@ -60,21 +60,21 @@ function Contact() {
 
         <div className="people">
           <div>
-            <img src="/images/2.png" alt="Emilio Calma" />
-            <p>
-              <span>Margaux Alabado</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: calmaemilio803@gmail.com
-            </p>
-          </div>
-          <div>
-            <img src="/images/3.png" alt="Mr. Cat" />
-            <p>
-              <span>Emilio Joseph Calma</span> Chief Technology Officer <br /> Phone: +63 9972872692 <br /> Email: meowwww@gmail.com
-            </p>
-          </div>
-          <div>
             <img src="/images/1.png" alt="Margaux Alabado" />
             <p>
-              <span>Mr. Meow</span> Chief Marketing Officer <br /> Phone: +63 9294560987 <br /> Email: hellomargauxalabado@gmail.com
+              <span>Margaux Alabado</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: hellomargauxalabado@gmail.com
+            </p>
+          </div>
+          <div>
+            <img src="/images/2.png" alt="Emilio Joseph Calma" />
+            <p>
+              <span>Emilio Joseph Calma</span> Chief Technology Officer <br /> Phone: +63 9972872692 <br /> Email: calmaemilio803@gmail.com
+            </p>
+          </div>
+          <div>
+            <img src="/images/3.png" alt="Mr. Meow" />
+            <p>
+              <span>Mr. Meow</span> Chief Marketing Officer <br /> Phone: +63 9294560987 <br /> Email: meowwww@gmail.com
             </p>
           </div>
         </div>
