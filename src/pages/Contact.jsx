@@ -74,7 +74,7 @@ function Contact() {
           <div>
             <img src="/images/3.png" alt="Mr. Meow" />
             <p>
-              <span>Mr. Meow</span> Chief Marketing Officer <br /> Phone: +63 9294560987 <br /> Email: meowwww@gmail.com
+              <span>Margaux Alabado</span> Chief Marketing Officer <br /> Phone: +63 9294560987 <br /> Email: meowwww@gmail.com
             </p>
           </div>
         </div>
