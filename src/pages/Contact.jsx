@@ -62,7 +62,7 @@ function Contact() {
           <div>
             <img src="/images/2.png" alt="Emilio Calma" />
             <p>
-              <span>Margaux Alabado</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: hellomargauxalabado@gmail.com
+              <span>Emilio Calma</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: hellomargauxalabado@gmail.com
             </p>
           </div>
           <div>
