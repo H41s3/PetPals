@@ -66,7 +66,7 @@ function Contact() {
             </p>
           </div>
           <div>
-            <img src="/images/2.png" alt="Emilio Joseph Calma" />
+            <img src="/images/3.png" alt="Emilio Joseph Calma" />
             <p>
               <span>Emilio Joseph Calma</span> Chief Technology Officer <br /> Phone: +63 9972872692 <br /> Email: calmaemilio803@gmail.com
             </p>
