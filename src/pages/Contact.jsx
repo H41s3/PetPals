@@ -62,13 +62,13 @@ function Contact() {
           <div>
             <img src="/images/2.png" alt="Emilio" />
             <p>
-              <span>Emilio Calma</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: hellomargauxalabado@gmail.com
+              <span>Emilio Calma</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: iejc@gmail.com
             </p>
           </div>
           <div>
             <img src="/images/3.png" alt="Mr. Cat" />
             <p>
-              <span>Mr. Cat</span> Chief Technology Officer <br /> Phone: +63 9972872692 <br /> Email: calmaemilio803@gmail.com
+              <span>Mr. Cat</span> Chief Technology Officer <br /> Phone: +63 9972872692 <br /> Email: cattp@gmail.com
             </p>
           </div>
           <div>
