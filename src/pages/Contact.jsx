@@ -60,7 +60,7 @@ function Contact() {
 
         <div className="people">
           <div>
-            <img src="/images/2.png" alt="Emilio Calma" />
+            <img src="/images/2.png" alt="Emilio" />
             <p>
               <span>Emilio Calma</span> Chief Executive Officer <br /> Phone: +63 9998166180 <br /> Email: hellomargauxalabado@gmail.com
             </p>
@@ -72,7 +72,7 @@ function Contact() {
             </p>
           </div>
           <div>
-            <img src="/images/3.png" alt="Mr. Meow" />
+            <img src="/images/1.png" alt="Margaux" />
             <p>
               <span>Margaux Alabado</span> Chief Marketing Officer <br /> Phone: +63 9294560987 <br /> Email: margauxalabado@gmail.com
             </p>
